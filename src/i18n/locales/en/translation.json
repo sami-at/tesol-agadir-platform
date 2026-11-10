@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "program": "TESOL Certification",
+    "practicum": "Teaching Practice",
+    "tuitionDates": "Tuition & Dates",
+    "contact": "Contact",
+    "apply": "Apply Now"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us"
+  }
+}

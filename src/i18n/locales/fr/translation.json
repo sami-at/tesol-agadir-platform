@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "program": "Certification TESOL",
+    "practicum": "Pratique pédagogique",
+    "tuitionDates": "Frais & Dates",
+    "contact": "Contact",
+    "apply": "Postuler"
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "quickLinks": "Liens rapides",
+    "contactUs": "Nous contacter"
+  }
+}
